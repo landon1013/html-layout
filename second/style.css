@@ -5,18 +5,18 @@
 }
 .right {
 	background-color: black;
-	width: 30%;
-	height: 600px;
-	float: right;
+	width: 33%;
+	height: 400px;
+	float: left;
 	color: white;
 }
 
 img {
 	position: bottom;
-	width: 100%;
+	width: 33%;
 	height: 200px;
-	float: right;
-	margin-top: 381px;
+	float: left;
+	/*margin-top: 381px;*/
 }
 
 .left {
@@ -24,13 +24,13 @@ img {
 	width: 33%;
 	height: 600px;
 	color: white;
-	float: right;
+	float: left;
 }
 
 .center {
 	background-color: red;
-	width: 34%;
+	width: 33%;
 	height: 600px;
 	color: white;
-	float: right;
+	float: left;
 }
